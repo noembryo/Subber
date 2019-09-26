@@ -34,13 +34,13 @@
 </p>
 
 
-##### Subtitles service by:
+#### Subtitles service by:
 ![OpenSubtitles.org](https://raw.githubusercontent.com/noembryo/Subber/master/images/os.png)  
 ![Podnapisi.NET](https://raw.githubusercontent.com/noembryo/Subber/master/images/pod.png)  
 ![SubScene](https://raw.githubusercontent.com/noembryo/Subber/master/images/subscene.png)   
 and ![GreekSubs](https://raw.githubusercontent.com/noembryo/Subber/master/images/greek_subs.png)  
 
-##### Series info by:
+#### Series info by:
 ![TheTVDB.com](https://raw.githubusercontent.com/noembryo/Subber/master/images/tvdb.png)
 
 
