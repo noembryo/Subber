@@ -44,11 +44,7 @@ and ![GreekSubs](https://raw.githubusercontent.com/noembryo/Subber/master/images
 
 
 ## Downloads
-Check the latest release on the [Downloads Page][ReleaseLink].  
+Check the latest release on the [Releases page][https://GitHub.com/noembryo/Subber/releases/].  
 Read the version history at [App's Page](http://www.noembryo.com/apps.php?subber).
 
 #
-
-[ReleaseLink]:https://GitHub.com/noembryo/Subber/releases/
-
-
